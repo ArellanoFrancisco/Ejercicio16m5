@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio16m5</string>
+    <string name="poblacion">Poblacion</string>
+    <string name="Argentina">Poblacion de Argentina es 45.773.884 </string>
+    <string name="Chile">Poblacion de Chile es 19.629.590</string>
+    <string name="Paraguay">Poblacion de Paraguay es 7.586.432</string>
+    <string name="Bolivia">Poblacion de Bolivia es 12.388.570</string>
+    <string name="Peru">Poblacion de Peru es  34.352.718</string>
+    <string name="Ecuador">Poblacion de Ecuador es  18.190.483</string>
+    <string name="Brasil">Poblacion de Brasil es 216.422.446</string>
+    <string name="Colombia">Poblacion de Colombia es 52.085.167</string>
+    <string name="Venezuela">Poblacion de Venezuela es 28.838.498</string>
+    <string name="Uruguay">Poblacion de Uruguay es 3.423.108</string>
+</resources>
